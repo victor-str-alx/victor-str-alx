@@ -4,13 +4,14 @@
 
 I'm a Computer Engineering graduate building a career at the intersection of data, technology, and business. My background includes IT support, DevOps, programming fundamentals, and relational databases.
 
-I'm focusing on using data to answer practical business questions, communicate findings clearly, and support better decisions. I prefer a practical analytics workflow built around Excel, SQL, and BI tools, with programming as a supporting skill rather than the main focus.
+I'm focusing on using data to answer practical business questions, communicate findings clearly, and support better decisions. My main tools are Excel, SQL, and BI; Python is a supporting skill that I'm continuing to develop.
 
 ## Current Focus
 
 - **Excel:** data cleaning, formulas, PivotTables, KPI reporting, and charts
 - **SQL:** filtering, joins, aggregations, and analytical queries
 - **Power BI:** learning data modelling, Power Query, dashboards, and DAX fundamentals
+- **Python (foundational):** core syntax and data-oriented programming fundamentals, building on the IBM Python for Data Science course
 - **Business analysis:** defining metrics, investigating trends, and explaining findings
 
 ## Selected Projects
@@ -34,7 +35,7 @@ I'm focusing on using data to answer practical business questions, communicate f
 
 ## What I'm Building Next
 
-My next portfolio project will focus on **sales performance analysis** using Excel, SQL, and Power BI. The goal is to work from a documented dataset, answer business questions, and present evidence-based findings in a clear dashboard.
+My next portfolio project will focus on **sales performance analysis** using Excel, SQL, and Power BI. The goal is to work from a documented dataset, answer business questions, and present evidence-based findings in a clear dashboard. Python may be used for supporting data preparation where it adds value.
 
 This project is planned and is not presented as completed work.
 
