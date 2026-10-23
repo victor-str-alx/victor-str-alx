@@ -1,42 +1,39 @@
 # Hi, I'm Victor 👋
 
-### Aspiring Junior Data Analyst | Python · SQL · Excel
+**Aspiring Junior Data Analyst | Python · SQL · Excel**
 
-I'm a Computer Engineering student at the University of Craiova, developing practical skills in data analysis and data-driven problem solving.
+I'm a Computer Engineering student at the University of Craiova, building practical skills in data analysis and data-driven problem solving.
 
-My background combines programming, relational database fundamentals, and hands-on exposure to DevOps and IT support. I'm now focusing on building a portfolio that demonstrates the full data analysis process: asking clear questions, preparing data, analysing results, and communicating findings.
+My background includes programming, relational databases, and experience in IT support and DevOps. I'm now focusing on Python, SQL, and Excel to turn structured data into useful information and clear findings.
 
-## Skills I'm developing
+## Skills
 
-- **Python:** pandas, data cleaning, exploratory data analysis
-- **SQL:** filtering, joins, aggregation, and analytical queries
-- **Excel:** data cleaning, formulas, PivotTables, and charts
-- **Data communication:** clear visualisations and evidence-based conclusions
-- **Technical foundation:** Git, GitHub, Linux, and programming fundamentals
+- **Python:** programming fundamentals and Python for data science
+- **SQL:** relational database concepts and querying
+- **Excel:** data organisation, formulas, summaries, and charts
+- **Data visualisation:** interactive charts and graph-based views
+- **Technical tools:** Git, GitHub, Linux, GitHub Actions
 
-## Featured projects
+## Projects
 
-| Project | What it demonstrates |
-|---|---|
-| [E-commerce Sales Analysis](https://github.com/victor-str-alx/ecommerce-sales-analysis) *(planned)* | End-to-end analysis of orders, revenue, and product performance |
-| [Software Metrics Analyzer](https://github.com/victor-str-alx/Software-Metrics-Analyzer) | Software metrics collection and reporting |
-| [Svelte Visualization App](https://github.com/victor-str-alx/svelte-vis-app) | Interactive charts and data visualisation |
-| [Library Management System](https://github.com/victor-str-alx/lib-project) | Relational data modelling and data management |
-| [Smart Shop](https://github.com/victor-str-alx/smart-shop) | Shop management application; potential foundation for sales analytics |
-| [Service Auto](https://github.com/victor-str-alx/Service-Auto) | Web application built with ASP.NET Core and SQLite |
+### Data and Visualisation
+- [Smart Shop](https://github.com/victor-str-alx/smart-shop) — Django e-commerce application with product recommendations and a sales analytics dashboard.
+- [Software Metrics Analyzer](https://github.com/victor-str-alx/Software-Metrics-Analyzer) — A project focused on collecting and aggregating software metrics.
+- [Svelte Visualization App](https://github.com/victor-str-alx/svelte-vis-app) — Interactive network, hierarchical, and chart visualisations.
 
-## Education and training
+### Applications and Data Management
+- [Library Management System](https://github.com/victor-str-alx/lib-project) — Relational database design for a multi-branch library.
+- [Service Auto](https://github.com/victor-str-alx/Service-Auto) — Auto-service management application using ASP.NET Core and SQLite.
+
+## Education and Training
 
 - Computer Engineering — University of Craiova
-- IBM: Python for Data Science, AI & Development
-- Additional data analytics and Python training: in progress
+- IBM — Python for Data Science, AI & Development
+- Further data analytics training — in progress
 
-## Current goals
+## Current Focus
 
-- Build practical projects using Python, SQL, and Excel
-- Improve data cleaning, exploratory analysis, and reporting
-- Explain findings in a way that supports business decisions
+I'm developing practical skills in data cleaning, exploratory analysis, SQL querying, and presenting findings clearly. My goal is to connect my technical background with business-oriented data analysis.
 
-I'm building this portfolio as I learn. Project descriptions will distinguish implemented features from planned improvements.
-
-📫 Feel free to explore my repositories.
+---
+*This portfolio is a work in progress. Project descriptions summarise the repositories and do not imply that every project is a dedicated data analytics solution.*
